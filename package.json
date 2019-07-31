@@ -12,7 +12,9 @@
     "react-scripts": "3.0.1",
     "tslint": "^5.18.0",
     "tslint-react": "^4.0.0",
-    "typescript": "3.5.3",
+    "typescript": "3.5.3"
+  },
+  "devDependencies": {
     "prettier": "1.11.1"
   },
   "scripts": {
