@@ -1,3 +1,7 @@
+# Step Form
+This project is to test the handling of multiple "sites" inside a form.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
